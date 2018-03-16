@@ -1,2 +1,2 @@
 # Magento2-configurable
-Magento 2 add label out of stock products in configurable product dropdown
+out of stock label added to out of stock child products in configurable product dropdown.
